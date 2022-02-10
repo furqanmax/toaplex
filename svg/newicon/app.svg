@@ -1,0 +1,14 @@
+<svg width="104" height="104" viewBox="0 0 104 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="104" height="104" rx="10" fill="white"/>
+<path d="M35.3938 48.5391C35.3938 46.8822 36.7369 45.5391 38.3938 45.5391H69.8442C71.501 45.5391 72.8442 46.8822 72.8442 48.5391V64.8808C72.8442 66.5376 71.501 67.8808 69.8442 67.8808H38.3938C36.7369 67.8808 35.3938 66.5376 35.3938 64.8808V48.5391Z" stroke="black" stroke-width="2"/>
+<path d="M63.7143 72.5714V78C63.7143 80.2091 61.9234 82 59.7143 82H30C27.7909 82 26 80.2091 26 78V20C26 17.7909 27.7909 16 30 16H59.7143C61.9234 16 63.7143 17.7909 63.7143 20V41.9286" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26 23.543H63.7143" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<path d="M42.0288 18.7715C41.4765 18.7715 41.0288 19.2192 41.0288 19.7715C41.0288 20.3238 41.4765 20.7715 42.0288 20.7715V18.7715ZM47.686 20.7715C48.2382 20.7715 48.686 20.3238 48.686 19.7715C48.686 19.2192 48.2382 18.7715 47.686 18.7715V20.7715ZM42.0288 20.7715H47.686V18.7715H42.0288V20.7715Z" fill="black"/>
+<path d="M29.7715 72.5723L63.7144 72.5723" stroke="black" stroke-width="2" stroke-linecap="round"/>
+<circle cx="44.8572" cy="76.3427" r="1.88571" fill="black"/>
+<path d="M64.0724 48.7365L63.4428 53.7727" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M67.425 48.8867L70.4584 51.4651L67.425 53.7401" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60.0901 48.8848L57.0567 51.4631L60.0901 53.7382" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M47.7251 65.5233V62.0059C47.7251 60.349 46.382 59.0059 44.7251 59.0059H42.4302C40.7733 59.0059 39.4302 60.349 39.4302 62.0059V65.5233" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.0227 53.969C41.0227 52.558 42.1666 51.4141 43.5777 51.4141C44.9888 51.4141 46.1327 52.558 46.1327 53.969C46.1327 55.3801 44.9888 56.524 43.5777 56.524C42.1666 56.524 41.0227 55.3801 41.0227 53.969Z" stroke="black" stroke-width="2"/>
+</svg>

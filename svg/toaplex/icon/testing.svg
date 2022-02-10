@@ -1,0 +1,20 @@
+<svg width="35" height="40" viewBox="0 0 35 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="19" height="39" rx="1.5" stroke="black"/>
+<path d="M0 4H19" stroke="black"/>
+<path d="M0.5 35H19" stroke="black"/>
+<circle cx="10" cy="37" r="0.5" stroke="black"/>
+<rect x="8" y="2" width="4" height="1" rx="0.5" fill="black"/>
+<circle cx="22.5" cy="20.5" r="12" fill="white" stroke="black"/>
+<rect x="19.5" y="14.5" width="7" height="11" rx="3.5" stroke="black"/>
+<path d="M19.5 17.5L20.1059 17.9544C22.0534 19.4151 24.7786 19.2214 26.5 17.5V17.5" stroke="black"/>
+<path d="M23 19L23.0257 19.1796C23.3089 21.1625 22.2916 23.1042 20.5 24V24" stroke="black"/>
+<path d="M23 19L23.2226 20.7812C23.3959 22.1674 24.2505 23.3753 25.5 24V24" stroke="black"/>
+<path d="M22.5 14.5L22.4743 14.423C22.1911 13.5732 21.3958 13 20.5 13V13" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23 14.5L23.0257 14.423C23.3089 13.5732 24.1042 13 25 13V13" stroke="black"/>
+<path d="M26.5 18.5V18.5C27.25 17.5 28.75 17.5 29.5 18.5V18.5" stroke="black"/>
+<path d="M26.5 20.5H26.5858C27.4913 20.5 28.3597 20.8597 29 21.5V21.5" stroke="black"/>
+<path d="M26.5 22.5L27.0697 22.8798C27.6793 23.2862 28.1723 23.8447 28.5 24.5V24.5" stroke="black"/>
+<path d="M19.5 18.5V18.5C18.7083 17.4444 17.1652 17.3348 16.2322 18.2678L16 18.5" stroke="black"/>
+<path d="M19.5 20.5V20.5C18.6144 20.2048 17.6408 20.5389 17.1229 21.3156L17 21.5" stroke="black"/>
+<path d="M19.5 22.5V22.5C18.5557 22.8148 17.8148 23.5557 17.5 24.5V24.5" stroke="black"/>
+</svg>
